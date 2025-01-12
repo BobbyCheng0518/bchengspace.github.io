@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+邮箱：cyb3500518@126.com
 
-### More Information
+### 更多信息
 
-A place to include any other types of information that you'd like to include about yourself.
+暂无
 
-### Contact me
+### 联系我
 
-[email@domain.com](mailto:email@domain.com)
+[cyb3500518@126.com](mailto:cyb3500518@126.com)
